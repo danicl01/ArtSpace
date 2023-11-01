@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="paint_name">Paint Name</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="picture_1">Guernica</string>
+    <string name="author_1">Pablo Picasso (1937)</string>
+    <string name="picture_2">El Nacimiento de Venus</string>
+    <string name="author_2">Sandro Botticelli (1485)</string>
+    <string name="picture_3">La Mona Lisa</string>
+    <string name="author_3">Leonardo Da Vinci (1503)</string>
+    <string name="picture_4">La Creación de Adán</string>
+    <string name="author_4">Miguel Ángel (1508)</string>
+    <string name="picture_5">La Noche Estrellada</string>
+    <string name="author_5">Vicent van Gogh (1889)</string>
+    <string name="picture_6">Las Meninas</string>
+    <string name="author_6">Diego Velázquez (1656)</string>
+</resources>
